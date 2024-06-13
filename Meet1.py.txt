@@ -1,0 +1,2 @@
+print("nama Zumajji Karyanto")
+print("prodi PTI")
